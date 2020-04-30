@@ -11,7 +11,7 @@
     "boostrap": "^2.0.0",
     "bootstrap-vue": "^2.5.0",
     "core-js": "^3.6.4",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "typeface-montserrat": "0.0.75",
     "vee-validate": "^3.2.5",
     "vue": "^2.6.11",
